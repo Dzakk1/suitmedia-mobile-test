@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Suitmedia-Mobile-Test</string>
+    <string name="img_profile_home">Image Profile Home</string>
+    <string name="input_name_hint">Name</string>
+    <string name="input_palindrome_hint">Palindrome</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_next">Next</string>
+    <string name="second_scree_title">Second Screen</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_user">Dzaky Zaidan</string>
+    <string name="selected_username">Selected User Name</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="third_screen_title">Third Screen</string>
+    <string name="username">Username</string>
+    <string name="email">email@main.com</string>
+</resources>
